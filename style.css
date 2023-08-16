@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+form{
+    border-top:3px solid black;
+    margin:20px;
+    padding:10px;
+   
+}
+form .h4{
+    margin-right: 500px;
+}
+.h2{
+    margin-left:600px;
+    text-align: center;
+}
+.fm{
+    margin-left:600px;
+    text-align: center;
+    padding:5px
+}
+form input{
+    border-bottom:1px solid black ;
+    border-top: none;
+    border-left:none;
+    border-right: none;
+    padding:5px;
+}
+
+form label{
+    padding:20px;
+    
+}
+
+.fm2{
+    display: flex;
+    gap:60px;
+    margin:20px;
+}
+
+.fm2 input{
+    padding:20px
+}
